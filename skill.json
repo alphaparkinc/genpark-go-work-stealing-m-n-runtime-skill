@@ -1,0 +1,15 @@
+{
+  "name": "genpark-go-work-stealing-m-n-runtime-skill",
+  "version": "1.0.0",
+  "description": "Go-inspired M:N work-stealing runtime scheduler with local runqueue deques, victim work-stealing, global queue fairness, and cooperative goroutine preemption.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "work-stealing",
+    "runtime-scheduler",
+    "m-n-scheduler",
+    "concurrency"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
